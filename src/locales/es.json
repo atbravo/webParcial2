@@ -1,3 +1,11 @@
 {
-    "pet" : "mascota"
+    
+    "name" : "nombre",
+    "foundation" : "fundacion",
+    "country" : "país",
+    "genre" : "genero",
+    "title" : "Bandas Musicales",
+    "mensaje0" :  "La banda más antigua es ",
+    "mensaje1" :  "y fue fundada hace ",
+    "mensaje2" :  "años"
 }

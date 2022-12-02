@@ -1,3 +1,10 @@
 {
-    "pet" : "pet"
+    "name" : "name",
+    "foundation" : "foundation",
+    "country" : "country",
+    "genre" : "genre",
+    "title" : "Musical Bands",
+    "mensaje0" :  "The oldest band is ",
+    "mensaje1" :  "and it was founded ",
+    "mensaje2" :  "years ago"
 }
